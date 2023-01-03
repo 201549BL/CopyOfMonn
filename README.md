@@ -1,6 +1,6 @@
 ## Disclaimer
 
-This project is a recreationg of another webpage. See [Monn Interiørarkitekter | Monn Interior Architects](https://monn.no/).
+This project is a recreation of another webpage. See [Monn Interiørarkitekter | Monn Interior Architects](https://monn.no/).
 
 ## Motivation
 
